@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\TranThiKhanhLy_378\Bai62\bin\Debug\Bai62.exe.config
+C:\Users\Administrator\source\repos\TranThiKhanhLy_378\Bai62\bin\Debug\Bai62.exe
+C:\Users\Administrator\source\repos\TranThiKhanhLy_378\Bai62\bin\Debug\Bai62.pdb
+C:\Users\Administrator\source\repos\TranThiKhanhLy_378\Bai62\obj\Debug\Bai62.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\TranThiKhanhLy_378\Bai62\obj\Debug\Bai62.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TranThiKhanhLy_378\Bai62\obj\Debug\Bai62.exe
+C:\Users\Administrator\source\repos\TranThiKhanhLy_378\Bai62\obj\Debug\Bai62.pdb
+C:\Users\Administrator\source\repos\TranThiKhanhLy_378\Bai62\obj\Debug\Bai62.exe.config
